@@ -2,7 +2,7 @@
 
 I'm Kate! Welcome to my GitHub. 
 
-- 💻  Full Stack & Front End Software Engineer
+- 💻  Junior Full Stack & Front End Software Engineer
 - 🌎   Multidisciplinary Background in Design and Geography
 - 👾   Curious about design, infographics, innovative products doing good in the world
 - 🌐   [Connect with me on LinkedIn!](https://www.linkedin.com/in/kate-oboyle/)
@@ -14,6 +14,9 @@ I'm Kate! Welcome to my GitHub.
 - 🕹️ Pac-Man Mario Kart themed desktop game (improving the CSS & JS of existing project)
 - 🌏 Using Esri/ArcGIS to build a 3D Interactive Globe connected to a custom RESTful API
 - 🎨 Improving CSS, JavaScript, React.js & Python skillset through various side projects and courses
+
+
+- 🔭 Feast of project ideas in the making: Interactive React Apps relating to the arts, music, education. 
 
 
 
