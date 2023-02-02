@@ -6,6 +6,7 @@ I'm Kate! Welcome to my GitHub.
 - 🌎   Multidisciplinary Background in Design and Geography
 - 👾   Curious about design, infographics, innovative products doing good in the world
 - 🌐   [Connect with me on LinkedIn!](https://www.linkedin.com/in/kate-oboyle/)
+- <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="18" title="Instagram" /> [@casakob](https://www.instagram.com/casakob/?hl=en)
 
 ✨
 
