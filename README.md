@@ -13,7 +13,7 @@ I'm Kate! Welcome to my GitHub.
 
 - 🕹️ Pac-Man Mario Kart themed desktop game (improving the CSS & JS of existing project)
 - 🌏 Using Esri/ArcGIS to build a 3D Interactive Globe connected to a custom RESTful API
-- 🎨 Improving CSS, JavaScript, React.js & Python skillset
+- 🎨 Improving CSS, JavaScript, React.js & Python skillset through various side projects and courses
 
 
 
