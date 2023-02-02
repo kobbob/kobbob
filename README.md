@@ -11,12 +11,10 @@ I'm Kate! Welcome to my GitHub.
 
 ⚙️ I’m currently working on ...
 
+- 🔭 Feast of project ideas in the making: Interactive React Apps relating to the arts, music, education. 
 - 🕹️ Pac-Man Mario Kart themed desktop game (improving the CSS & JS of existing project)
 - 🌏 Using Esri/ArcGIS to build a 3D Interactive Globe connected to a custom RESTful API
 - 🎨 Improving CSS, JavaScript, React.js & Python skillset through various side projects and courses
-
-
-- 🔭 Feast of project ideas in the making: Interactive React Apps relating to the arts, music, education. 
 
 
 
