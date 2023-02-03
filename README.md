@@ -8,7 +8,7 @@ I'm Kate! Welcome to my GitHub.
 - 🌐   [Connect with me on LinkedIn!](https://www.linkedin.com/in/kate-oboyle/)
 
 
-✨
+</br>
 
 ⚙️ I’m currently working on ...
 
